@@ -34,7 +34,7 @@ I selected only relevant plans (investment or savings) to classify their latest 
 
 
 
-**4. Customer Lifetime Value (CLV) Estimation **
+**4. Customer Lifetime Value (CLV) Estimation**
 _Approach:_
 
 I joined user information with their transactions to get amounts and months since they signed up.
